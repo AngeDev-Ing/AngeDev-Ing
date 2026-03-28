@@ -86,15 +86,6 @@ Plataforma enfocada en fortalecer relaciones a distancia mediante experiencias i
 
 ---
 
-### 🤝🏻 &nbsp;Contactos
-
-<p align="center">
-<a href="mailto:angellapairazaman@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
 ### 🐍 &nbsp;Actividad
 
 <div align="center">
