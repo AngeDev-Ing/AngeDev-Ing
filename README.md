@@ -4,10 +4,9 @@
 <h2 align="left">¡Hola! Soy Angella Pairazamán</h2>
 
 ---
+<img img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="200" align="right"/>
 
 ### 👩‍💻 &nbsp;Sobre mí
-
-<img img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="200" align="right"/>
 
 👨‍💻 &nbsp;Estudiante de Ingeniería de Sistemas y Telecomunicaciones (en curso).\
 🚀 &nbsp;Desarrollo **sistemas web y soluciones digitales** con proyección a productos reales.\
